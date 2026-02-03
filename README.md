@@ -28,4 +28,4 @@ Agents involved:
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run code.py
